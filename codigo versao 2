@@ -4,7 +4,7 @@
 #include <limits> // Controle de entrada inválida  
 #include <string> // Manipulação de strings
 #include <vector> // Estrutura para armazenar histórico
-#include <sstream> // Conversão de dados para texto formatado
+#include <sstream> // Conversão de dados para texto formatado 
 
 using namespace std;
 
