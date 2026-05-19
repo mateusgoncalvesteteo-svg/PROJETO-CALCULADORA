@@ -1,6 +1,6 @@
 # CLI Calculator in C++
 A terminal calculator built in c++ with:
-- input validationte
+- input validation
 - operating history
 - logarithm and power support
 - robust error handling
